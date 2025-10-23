@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Huevos - Docena",
+    "precio": 296,
+    "cantidad": 0,
+    "imagen": "/images/huevos.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Leche Entera - 1L",
+    "precio": 180,
+    "cantidad": 0,
+    "imagen": "/images/leche.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Pan Integral - 500g",
+    "precio": 120,
+    "cantidad": 0,
+    "imagen": "/images/pan.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Queso Fresco - 250g",
+    "precio": 350,
+    "cantidad": 0,
+    "imagen": "/images/queso.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Tomates - 1kg",
+    "precio": 220,
+    "cantidad": 0,
+    "imagen": "/images/tomate.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Arroz Blanco - 1kg",
+    "precio": 150,
+    "cantidad": 0,
+    "imagen": "/images/arroz.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Pollo Entero - 1.5kg",
+    "precio": 480,
+    "cantidad": 0,
+    "imagen": "/images/pollo.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Aceite de Oliva - 500ml",
+    "precio": 280,
+    "cantidad": 0,
+    "imagen": "/images/aceiteOliva.jpg"
+  }
+]
