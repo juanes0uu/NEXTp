@@ -12,7 +12,7 @@ export default function CartSummary({ totalPrecio, totalProductos }) {
           <div className="text-end text-md-start">
             <div className="mb-2">
               <span style={{fontWeight: '600', fontSize: '1.125rem', color: '#0f172a'}}>Total Precio: </span>
-              <span style={{fontWeight: '700', fontSize: '1.5rem', color: '#3b82f6'}}>${totalPrecio}</span>
+              <span style={{fontWeight: '700', fontSize: '1.5rem', color: '#3b82f6'}}>col${totalPrecio}</span>
             </div>
             <div>
               <span style={{color: '#64748b', fontSize: '0.875rem'}}>Total de productos: </span>

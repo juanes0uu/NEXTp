@@ -13,7 +13,7 @@ export default function CartPage() {
       <div className="min-vh-100" style={{backgroundColor: '#e4e2e2', fontFamily: 'var(--font-inter)'}}>
         <div className="container py-5">
           <h1 className="text-center mb-5" style={{fontSize: '2.25rem', fontWeight: '700', color: '#0f172a'}}>
-            Carrito Interactivo de Compras con Next.js 🤯
+            Carrito de Compras
           </h1>
 
           <div className="row justify-content-center">
@@ -38,7 +38,7 @@ export default function CartPage() {
     <div className="min-vh-100" style={{backgroundColor: '#e4e2e2', fontFamily: 'var(--font-inter)'}}>
       <div className="container py-5">
         <h1 className="text-center mb-5" style={{fontSize: '2.25rem', fontWeight: '700', color: '#0f172a'}}>
-          Carrito Interactivo de Compras con Next.js 🤯
+          Carrito de Compras
         </h1>
         <div className="row justify-content-center">
           <div className="col-12 col-lg-10 col-xl-8">
