@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Carrito Interactivo de Compras con Next.js 🤯",
+  title: "Carrito",
   description: "Carrito de compras interactivo con Next.js y Bootstrap 5",
 };
 
